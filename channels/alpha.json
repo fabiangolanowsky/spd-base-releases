@@ -1,22 +1,22 @@
 {
   "schema": 1,
   "channel": "alpha",
-  "version": "1.8.0-alpha.1",
-  "published_at": "2026-09-25T14:19:18Z",
+  "version": "1.8.0-alpha.2",
+  "published_at": "2026-09-25T16:37:45Z",
   "tested": "7.1.2",
   "requires": "6.4",
   "requires_php": "7.4",
-  "details_url": "https://github.com/fabiangolanowsky/spd-base-releases/releases/tag/v1.8.0-alpha.1",
+  "details_url": "https://github.com/fabiangolanowsky/spd-base-releases/releases/tag/v1.8.0-alpha.2",
   "plugin": {
     "slug": "spd-base-core",
-    "version": "1.8.0-alpha.1",
-    "package": "https://github.com/fabiangolanowsky/spd-base-releases/releases/download/v1.8.0-alpha.1/spd-base-core-1.8.0-alpha.1.zip",
-    "sha256": "a35e72960c1c9bc11ad6d3dc52120961a0f1576800a69da93e9a060971c395ea"
+    "version": "1.8.0-alpha.2",
+    "package": "https://github.com/fabiangolanowsky/spd-base-releases/releases/download/v1.8.0-alpha.2/spd-base-core-1.8.0-alpha.2.zip",
+    "sha256": "d447a17edc33d08d7da56324cb23d002fce33d12688dfa1b668f6d39f1088c7b"
   },
   "theme": {
     "slug": "spd-base",
-    "version": "1.8.0-alpha.1",
-    "package": "https://github.com/fabiangolanowsky/spd-base-releases/releases/download/v1.8.0-alpha.1/spd-base-theme-1.8.0-alpha.1.zip",
-    "sha256": "1c73f6d814ecd9b96a07400dd7ff6419d32802bfa58e6fa50b6760f5df9aaffa"
+    "version": "1.8.0-alpha.2",
+    "package": "https://github.com/fabiangolanowsky/spd-base-releases/releases/download/v1.8.0-alpha.2/spd-base-theme-1.8.0-alpha.2.zip",
+    "sha256": "be0c356ec2d3a431d94c4bb12a7d7f463dc69376f3e21a2868c5f889123de1da"
   }
 }
