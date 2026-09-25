@@ -1,0 +1,20 @@
+{
+  "schema": 1,
+  "channel": "alpha",
+  "version": "1.7.0-alpha.1",
+  "published_at": "2026-09-25T07:51:30Z",
+  "tested": "7.1.2",
+  "requires": "6.4",
+  "requires_php": "7.4",
+  "details_url": "https://github.com/fabiangolanowsky/spd-base-releases/releases/tag/v1.7.0-alpha.1",
+  "plugin": {
+    "slug": "spd-base-core",
+    "package": "https://github.com/fabiangolanowsky/spd-base-releases/releases/download/v1.7.0-alpha.1/spd-base-core-1.7.0-alpha.1.zip",
+    "sha256": "d9b203173e0094bc212fbdcb29df2355f51fc9524ef514e81c6194dd7a6fb0af"
+  },
+  "theme": {
+    "slug": "spd-base",
+    "package": "https://github.com/fabiangolanowsky/spd-base-releases/releases/download/v1.7.0-alpha.1/spd-base-theme-1.7.0-alpha.1.zip",
+    "sha256": "497e910c6bf2653bf030d85c1c8fd03f13b1d14bc9d74318a1bc8494e32929ce"
+  }
+}
